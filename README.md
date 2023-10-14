@@ -3,6 +3,8 @@
 ## Description
 The Kream Store Scraper is a straightforward, yet versatile, web scraping tool designed to extract data from the Kream online store. With two distinct versions—simple and concurrent—and powered by Zenrows API, this scraper empowers you to access all products from Kream's online store and efficiently obtain only the latest additions to their inventory.
 
+![kream-output-csv-demo](https://github.com/andviktor/KreamScraper/assets/20559261/42f01f78-b40b-434d-a5ca-f0dae1582010)
+
 ## Key Features
 - **Simple and Concurrent Versions:** Choose between the simple and concurrent versions of the scraper to suit your specific needs. The simple version is available in the `main.py` file, while the concurrent version can be found in `concurrency.py`.
 
